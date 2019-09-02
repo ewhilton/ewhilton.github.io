@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://long-pig.cloudvent.net/Bitwarden/images/</loc>
-<lastmod>2019-09-02T15:13:16+00:00</lastmod>
-</url>
-<url>
 <loc>https://long-pig.cloudvent.net/Bitwarden/video/</loc>
-<lastmod>2019-09-02T15:13:16+00:00</lastmod>
+<lastmod>2019-09-02T15:13:20+00:00</lastmod>
 </url>
 <url>
 <loc>https://long-pig.cloudvent.net/changelog/</loc>
